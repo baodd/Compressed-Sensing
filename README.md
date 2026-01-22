@@ -3,10 +3,10 @@ This thesis investigates the optimization of indoor positioning techniques in VL
 
 **Simulation Environment**
 
-<img width="508" height="381" alt="image" src="https://github.com/user-attachments/assets/827c7ce1-3eb5-42fa-89f1-4c8a4a6b525e" />
-
+`<img width="508" height="381" alt="image" src="https://github.com/user-attachments/assets/827c7ce1-3eb5-42fa-89f1-4c8a4a6b525e" />
+`
 **Result**
 
-<img width="604" height="267" alt="image" src="https://github.com/user-attachments/assets/9f5097be-15f9-44e3-9501-37e6830c66c6" />
-<img width="604" height="267" alt="image" src="https://github.com/user-attachments/assets/243cad6f-7791-4f4d-80b4-8acd37ba13d4" />
+`<img width="604" height="267" alt="image" src="https://github.com/user-attachments/assets/9f5097be-15f9-44e3-9501-37e6830c66c6" />
+<img width="604" height="267" alt="image" src="https://github.com/user-attachments/assets/243cad6f-7791-4f4d-80b4-8acd37ba13d4" />`
 
