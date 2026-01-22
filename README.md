@@ -1,1 +1,2 @@
 # Compressed-Sensing
+This thesis investigates the optimization of indoor positioning techniques in VLC using compressed sensing. By formulating an optimization problem for sparse signal recovery algorithms and the measurement matrix, simulation results demonstrate that the proposed techniques can significantly reduce the error in estimating the user’s position as well as in identifying the LEDs that transmit signals to the user device.
